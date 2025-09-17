@@ -1,0 +1,19 @@
+[project]
+name = "aviation-mas-a2a"
+version = "0.1.0"
+description = "Aviation Multi-Agent System using Google ADK, FastMCP, and LiteLLM"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk>=0.1.0",
+    "fastmcp>=0.1.0",
+    "litellm>=1.0.0",
+    "fastapi>=0.100.0",
+    "uvicorn>=0.20.0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "click>=8.0.0",
+    "asyncio-mqtt>=0.11.0",
+    "httpx>=0.24.0",
+    "loguru>=0.7.0"
+]
