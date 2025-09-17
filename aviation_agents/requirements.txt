@@ -1,0 +1,65 @@
+# Core AI and Agent Framework
+google-adk
+adk-tools
+langchain
+langchain-ollama
+langchain-chroma
+litellm
+
+# MCP Framework
+fastmcp
+mcp
+
+# Web Framework
+fastapi
+uvicorn
+websockets
+
+# Database and Storage
+sqlalchemy
+psycopg2-binary
+chromadb
+redis
+
+# Authentication and Security
+pyjwt
+bcrypt
+python-multipart
+
+# Aviation Industry Specific
+pandas
+numpy
+matplotlib
+plotly
+openpyxl
+
+# Meeting and Calendar Integration
+exchangelib
+O365
+pywin32
+win32com.client
+
+# Email and Notifications
+smtplib
+email-validator
+
+# Configuration and Environment
+pydantic
+python-dotenv
+pyyaml
+
+# Date and Time
+python-dateutil
+pytz
+
+# HTTP Requests
+httpx
+requests
+
+# Logging and Monitoring
+structlog
+prometheus-client
+
+# Testing
+pytest
+pytest-asyncio

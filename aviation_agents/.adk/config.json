@@ -1,0 +1,5 @@
+﻿{
+  "agents": [
+    {"name": "base_agent", "path": "./base_agent", "port": 10010}
+  ]
+}
